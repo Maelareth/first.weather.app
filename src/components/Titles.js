@@ -4,8 +4,8 @@ class Titles extends React.Component {
   render () {
   return (
     <div>
-      <h1> Derp </h1>
-      <h2> Find your local weather </h2>
+      <h1> Väderappen </h1>
+      <h2> Hitta dagens väder! </h2>
     </div>
     );
    }
