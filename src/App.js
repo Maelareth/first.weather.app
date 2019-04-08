@@ -25,8 +25,7 @@ class App extends React.Component {
     <div>
     <Titles />
     <Forms />
-    <WeatherDay />
-
+    <WeatherDay />          
     </div>
       );
     }
