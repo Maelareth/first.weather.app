@@ -6,6 +6,7 @@ const Form = props => (
 		<input type="text" name="country" placeholder="Land..."/>
 		<button>Hitta väder</button>
 	</form>
+
 );
 
 export default Form;
